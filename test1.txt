@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is CA3A-F05D
-
- Directory of C:\Users\Manish\Desktop\MyProject
-
-31-Aug-21  08:44 PM    <DIR>          .
-31-Aug-21  08:44 PM    <DIR>          ..
-31-Aug-21  08:44 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,439,898,112 bytes free
+ chnages 
